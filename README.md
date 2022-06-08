@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aezz4007 (Amira Ezzeldin)
 - 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... Foundations @ the-odin-project
+- 🌱 I’m currently learning ...  Angular @ Udacity 
 - 💞️ I’m looking to collaborate on ... web development projects
 - 📫 How to reach me ... by email: aezz4007@gmail.com
 
